@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-this is my readme
+I'm JuanF Madrid
+
+Welcome to my Github
 
 <!--
 **jfmadridc/jfmadridc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
